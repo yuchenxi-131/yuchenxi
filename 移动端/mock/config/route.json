@@ -1,0 +1,6 @@
+{
+  "/api/*": "/$1",    
+  "/course/check\\?id=:id" : "/course/:id",  
+  "/course/add" : "/course",  
+  "/course/del?id=:id" : "/course/:id" 
+}
